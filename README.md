@@ -9,6 +9,7 @@ Package license: Unlicense
 
 Summary: PyGNOME is flexible particle-tracking framework adapted to oil spill modeling.
 
+James Debug change
 
 GNOME (General NOAA Operational Modeling Environment) is flexible particle
 tracking framework developed by the National Oceanic and Atmospheric
